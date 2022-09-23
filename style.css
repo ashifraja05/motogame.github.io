@@ -19,7 +19,7 @@
     position: relative;
     top: 0px;
     left: 0px;
-    animation: move 6s linear infinite  ;
+    animation: move 2s linear infinite  ;
     text-align: center;
 }
 #bluecar img{
